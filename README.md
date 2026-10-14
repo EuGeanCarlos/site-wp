@@ -67,3 +67,7 @@ Protótipo / projeto de estudo em desenvolvimento. A descrição acima distingue
 [GitHub](https://github.com/EuGeanCarlos)
 
 Licenças, autoria compartilhada e atribuições existentes no código e nos materiais originais permanecem aplicáveis.
+
+## Validação desta auditoria — 14/10/2026
+
+Sem publicação nova confirmada. PHP exige servidor: incompatível com Pages. Possível credencial em site-wp/contato.php: revisar e revogar/rotacionar se real. PHP não está disponível para teste local nesta auditoria.
